@@ -10,7 +10,7 @@
 #define MODULE_NAME "_warnings"
 
 PyDoc_STRVAR(warnings__doc__,
-MODULE_NAME " provides basic warning filtering support.\n"
+MODULE_NAME "provides basic warning filtering support.\n"
 "It is a helper module to speed up interpreter start-up.");
 
 
